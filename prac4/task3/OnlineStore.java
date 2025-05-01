@@ -3,7 +3,6 @@ package prac4.task3;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// Перечисление для категорий товаров
 enum Category {
     ELECTRONICS("Electronics"),
     CLOTHING("Clothes"),
